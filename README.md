@@ -1,4 +1,5 @@
 ## Digital Servo 11KG.CM 180 Degree
 
-<img width="718" height="718" alt="image" src="https://github.com/user-attachments/assets/405f073d-bd29-41e6-b470-e088b332e898" />
+<img width="376" height="376" alt="image" src="https://github.com/user-attachments/assets/fcbe89ea-a6d6-43b4-9a51-566171c64718" />
+
 
